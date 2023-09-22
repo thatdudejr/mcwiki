@@ -47,7 +47,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **mcwiki** is built using HTML, CSS, and JavaScript.
 - Special thanks to the Minecraft community for their valuable contributions and knowledge.
 
-Happy crafting!
+Happy Gaming LOL!
 
 ![MC-WIKI-LOGO](mcwiki.png)
 ```
